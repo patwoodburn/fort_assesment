@@ -21,4 +21,4 @@ jobs:
       - store_test_results:
           path: ~/repo/build/test_results
       - store_artifacts:
-          path: ~/repo/build/bin/cpp_base_project
+          path: ~/repo/build/bin/namespacer
